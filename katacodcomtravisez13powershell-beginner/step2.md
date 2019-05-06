@@ -1,7 +1,7 @@
-# Learn How to Get Help
+# Learn How to Get processes 1/2
 
-## Get all commands about processes
+## Get processes starting with `P`
 
-This is an example of how of how to get help about process commands:
+This is an example of how of how to get process starting with p:
 
-`Get-Help *process`{{execute}}
+`Get-Process -Name p*`{{execute}}
